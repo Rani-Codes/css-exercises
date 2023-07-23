@@ -1,0 +1,21 @@
+.one,
+.three,
+.five {
+    background-color: rgb(255, 122, 144);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(128, 128, 255);
+    font-size: 36px;
+}
+
+.three.special {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(110, 243, 110);
+    font-size: 24px;
+    font-weight: 700;
+}
